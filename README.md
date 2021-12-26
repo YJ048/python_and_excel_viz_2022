@@ -33,10 +33,10 @@ Python data analytics + Machine Learning for Marketing - 8 Days
 - how to morph the numpy array
 - how to slice the numpy array
 
-## Matplotlib (Afternoon)
+### Matplotlib (Afternoon)
 - TO BE ADDED
 
-## Pandas (Afternoon)
+### Pandas (Afternoon)
 - pandas
 
 # Excel With Data Analytics
@@ -47,20 +47,21 @@ Python data analytics + Machine Learning for Marketing - 8 Days
 - Lookup Tables
 - Microsoft Excel Charting Course
 
-## Day 10
+## Day 5
 ### Revision & Test
 
-##### Revision (Day 10 1st half)
+##### Revision (Day 5 1st half)
 
 -	Revision for Python
 -	Revision for Excel
 
-##### Test (Day 10 2nd half)
+##### Test (Day 5 2nd half)
 -	30 minutes assessment on Excel
 -	45 minutes assessment on Python with data analytics
 
 
 # Machine Learning for marketing
+## Day 6 & 7
 ### Total no of days: 2 days
 1. Introduction to Machine Learning and applications in Marketing
 2. Fundamentals of Market Segmentation
