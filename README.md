@@ -1,5 +1,5 @@
 # Python + Excel with Data Analytics + Machine Learning for Marketing (2022 Batch)
-Python data analytics + Machine Learning for Marketing - 7 Days
+Python data analytics + Machine Learning for Marketing - 8 Days
 
 <img src="https://user-images.githubusercontent.com/22993048/124384235-dfd6c700-dd02-11eb-9949-63a4fe90fe8c.png" width=500 >
 <img src="https://user-images.githubusercontent.com/22993048/124384254-f4b35a80-dd02-11eb-85b9-4c60b65b6ffc.png" width=500 >
@@ -13,20 +13,52 @@ Python data analytics + Machine Learning for Marketing - 7 Days
 
 
 # Introduction to Python (Python with data analytics)
+## Day 1
 ### Total no of days: 1 day
+- Basic Arithmetic In Python
+- Data Types & Data Type Conversion
+- variable storage / assignment / re-assignment
+- control statements
+- loops
 
 # Python Data Analytics (Python with data analytics)
-### Total no of days: 2 day
-- numpy 
-- matplotlib
+## Day 2
+### Total no of days: 1 day
+
+### Numpy (Morning)
+- One dimensional array
+- Two dimensional array
+- Accessing basic numpy variables
+- Accessing basic numpy functions (sum, min, max, log, exp, square, power)
+- how to morph the numpy array
+- how to slice the numpy array
+
+## Matplotlib (Afternoon)
+- TO BE ADDED
+
+## Pandas (Afternoon)
 - pandas
 
 # Excel With Data Analytics
+## Day 3 & 4
 ### Total no of days: 3 days
 - Computed Fields & Logical Functions
 - Excel Beginner & Intermediate Functions
 - Lookup Tables
 - Microsoft Excel Charting Course
+
+## Day 10
+### Revision & Test
+
+##### Revision (Day 10 1st half)
+
+-	Revision for Python
+-	Revision for Excel
+
+##### Test (Day 10 2nd half)
+-	30 minutes assessment on Excel
+-	45 minutes assessment on Python with data analytics
+
 
 # Machine Learning for marketing
 ### Total no of days: 2 days
