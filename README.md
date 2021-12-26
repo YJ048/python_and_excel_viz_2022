@@ -1,4 +1,4 @@
-# Python + Excel with Data Analytics + Machine Learning for Marketing (August 2021 Batch)
+# Python + Excel with Data Analytics + Machine Learning for Marketing (2022 Batch)
 Python data analytics + Machine Learning for Marketing - 7 Days
 
 <img src="https://user-images.githubusercontent.com/22993048/124384235-dfd6c700-dd02-11eb-9949-63a4fe90fe8c.png" width=500 >
@@ -9,23 +9,27 @@ Python data analytics + Machine Learning for Marketing - 7 Days
 1. have **jupyter notebook** installed with the **anaconda framework** or
 2. know how to setup google collab
 3. pre-requisite knowledge in python (foundational level)
+4. Have basic logical thinking
 
-# Python Data Analytics
-### Total no of days: 2 days
+
+# Introduction to Python (Python with data analytics)
+### Total no of days: 1 day
+
+# Python Data Analytics (Python with data analytics)
+### Total no of days: 2 day
 - numpy 
 - matplotlib
 - pandas
-- descriptive analytics
 
 # Excel With Data Analytics
-### Total no of days: 2 days
+### Total no of days: 3 days
 - Computed Fields & Logical Functions
 - Excel Beginner & Intermediate Functions
 - Lookup Tables
 - Microsoft Excel Charting Course
 
 # Machine Learning for marketing
-### Total no of days: 3 days
+### Total no of days: 2 days
 1. Introduction to Machine Learning and applications in Marketing
 2. Fundamentals of Market Segmentation
 3. K-means Clustering algorithm for segmentation
